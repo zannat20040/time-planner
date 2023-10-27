@@ -1,0 +1,673 @@
+@media (max-width:1217px) {
+    .bottom .bottom-bottom .div-bottom {
+        height: 254px;
+    }
+    .bottom .bottom-bottom .div-bottom .div-img {
+        height: 100%;
+        overflow: hidden;
+    }
+    img {
+        max-width: none;
+        max-height: 100%;
+    }
+}
+@media (max-width:1143px) {
+    .video-section {
+        width: 40%;
+    }
+    .card .text h1 {
+        font-size: 50px;
+    }
+    section .card-1 .card-text {
+        padding: 0 34px;
+    }
+}
+@media (max-width:1187px) {
+    .card .card-section .card-1 {
+        height: 180px;
+    }
+    .bottom .bottom-top {
+        width: 100%;
+        padding: 70px 0;
+    }
+    .bottom {
+        width: 100%;
+        padding: 70px 0 100px 0;
+    }
+}
+@media (max-width:1121px) {
+    .service .service-box .service-box-1 .service-box-top {
+        padding: 40px 40px 80px 40px;
+    }
+    .service .service-box .service-box-1{
+        margin-right: 5%;
+        width: 47.3%;    
+        margin-bottom: 30px;
+    }
+    .service .service-box .service-box-1:nth-child(2){
+        margin: 0
+    }
+    .service .service-box .service-box-1:nth-child(3){
+        margin: 0 26%;;
+    }
+    .member .member-bottom .member-details h2 {
+        font-size: 25px;
+    }    
+    .search-box button {
+        font-size: 18px;
+        padding: 18px 75px;
+    }
+}
+@media (max-width:1112px) {
+    .logo {
+        padding: 0;
+    }
+    .logo img {
+        height: 46px;
+    }
+    .logo span {
+        font-size: 23px;
+    }
+    .search-box {
+        padding: 55px 0 70px 0;
+    }
+
+    .search-box h1 {
+        font-size: 42px;
+    }
+    .search-box h3 {
+        font-size: 27px;
+    }
+    .search-box .email {
+        margin: 0 0 10px 0;
+    }
+    .search-box .email {
+        margin-right: 3%;
+    }
+}
+@media (max-width:1007px) {
+    .logo {
+        width: 100%;
+    }
+    .header .menu {
+        width: 100%;
+        text-align: center;
+    }
+    .header{
+        position: relative;
+    }
+    .button {
+        position: absolute;
+        right: 2%;
+        top: 10%;
+        width:30%;
+    }
+    .banner h1 {
+        font-size: 50px;
+    }
+    .banner {
+        padding: 120px 0px;
+    }
+    .card .text h1 {
+        font-size: 40px;
+    }
+    .card {
+        padding: 60px 0 50px 0;
+    }
+    .card .card-section .card-1 {
+        width: 48%;
+    }
+    .card .card-section .card-1:nth-child(2n+1) {
+        margin-left: 0;
+    }
+    .card .card-section .card-1:nth-child(4) {
+        margin-left:3%;
+    }
+    .service .service-text h1 {
+        font-size: 48px;
+    }
+    .service .service-text p {
+        font-size: 22px;
+    }
+    .service .service-box .service-box-1 {
+        width: 75%;
+        margin: 35px auto;
+        float: none;
+    }
+    .service .service-box .service-box-1:nth-child(2) {
+        margin: 35px auto;
+    }
+    .service  .service-box .service-box-1:nth-child(3) {
+        margin: 35px auto;
+    }
+    .member .member-bottom .member-details {
+        float: left;
+        margin-right: 10%;
+        width: 40%;
+    }
+    .member .member-top h1 {
+        font-size: 30px;
+    }
+    .member .member-bottom .member-details:nth-child(3n-1){
+        margin-right: 0;
+    }
+    .member .member-bottom .member-details {
+        margin-right: 20%;
+    }
+    .review {
+        padding: 60px 0;
+    }
+    .form .form-left {
+        margin: auto;
+        width: 90%;
+        float: none;
+        padding: 0;
+    }
+    .form .form-right {
+        width: 100%;
+        float: none;
+    }
+    .form .form-right {
+        margin-top: 24px;
+    }
+    .form .form-right h4 {
+        padding: 20px;
+        margin-bottom: 0;
+    }    
+    .form .form-right p {
+        padding: 20px;
+    }
+}
+@media (max-width:901px) {
+    .bottom .bottom-top .div-right p{
+        padding: 0 10px;
+    }
+}
+@media (max-width:841px) {
+    .banner h1 {
+        font-size: 40px;
+    }
+    .banner p {
+        font-size: 20px;
+    }
+    .banner span {
+        font-size: 16px;
+        padding: 18px 20px;
+    }
+    .video-section {
+        width: 100%;
+        padding: 0;
+        margin-bottom:20px;
+    }
+    .video {
+        display: block;
+        width: 70%;
+        margin: auto;
+    }
+    .sidetext {
+        float: none;
+        width: 57%;
+        display: block;
+        margin: auto;
+        text-align: center;
+    }
+    .card .text h1 {
+        font-size: 30px;
+    }
+    .card .text p {
+        padding-top: 12px;
+        font-size: 22px;
+    }
+    .card .card-section .card-1 {
+        width: 47%;
+    }
+    .service .service-text h1 {
+        font-size: 38px;
+    }
+    .service .service-text p {
+        font-size: 19px;
+    }
+    .service {
+        padding: 30px 0;
+    }
+    .search-box h3 {
+        font-size: 22px;
+        margin-bottom:16px;
+    }
+    .search-box h1 {
+        font-size: 36px;
+        margin-bottom: 24px;
+    }
+    .search-box button {
+        font-size: 19px;
+    }
+    .bottom .bottom-top .div-right{
+        width: 100%;
+        margin: 60px 0;    
+        float: none;
+        text-align: center;
+    }
+    .bottom .bottom-top {
+        padding: 20px 0 70px 0;
+    }
+    .bottom .bottom-top .div-left {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .bottom .bottom-bottom .div-bottom {
+        width: 100%;
+        margin-bottom: 30px;
+        margin-right: 0;
+    }
+    .review .review-top h1 {
+        font-size: 34px;
+    }
+    .review .review-top p {
+        font-size: 25px;
+    }    
+    iframe.map {
+        height: 400px;
+    }
+    .bottom .bottom-top {
+        padding: 20px 0 0px 0;
+    }
+    .bottom {
+        padding: 70px 0 40px 0;
+    }
+    .bottom-text {
+        font-size: 20px;
+    }
+}
+@media (max-width:712px) {
+    .review .review-top h1 {
+        font-size: 28px;
+    }
+    .review {
+        padding: 40px 0;
+    }
+    .search-box button {
+        font-size: 16px;
+    }
+    .search-box .email {
+        padding: 6px 82px 6px 25px;
+    }
+}
+@media (max-width:669px) {
+    .card .card-section .card-1 .card-icon {
+        width: 100%;
+    }
+    .card .card-section .card-1 .card-text {
+        width: 100%;
+    }
+    .card .card-section .card-1 {
+        padding: 18px 0 50px 0;
+    }
+    .card .card-section .card-1 .card-text h2 {
+        font-size: 24px;
+        text-align: center;
+    }
+    .card .card-section .card-1 .card-text p {
+        margin-top: 18px;
+    }
+    .service .service-text p {
+        font-size: 16px;
+    }
+    .service .service-text h1 {
+        font-size: 30px;
+    }
+    .member .member-top {
+        text-align: center;
+        padding: 40px 0;
+    }
+    .review .review-top {
+        padding: 0 10px 80px 10px;
+    }
+    .review .review-bottom .review-div {
+        width: 100%;
+        margin-bottom: 10%;
+    }
+    .review .review-bottom .review-div .review-text p {
+        font-size: 16px;
+    }
+    .review .review-bottom .review-div .review-img .img-text h4 {
+        font-size: 18px;
+    }
+    .form .form-right form .name {
+        width: 99%;
+        margin-bottom: 15px;
+        margin-right: 0;
+    }
+    .form .form-right form .number {
+        width: 99%;
+    }
+}
+@media (max-width:576px) {
+    .banner {
+        padding: 90px 0px;
+    }
+    .banner p {
+        font-size: 18px;
+        margin-bottom: 16px;
+
+    }
+    .banner h1 {
+        font-size: 32px;
+        margin-bottom: 34px;
+    }
+    .banner span {
+        font-size: 14px;
+        padding: 16px 16px;
+    }
+    .header .menu label{
+        visibility: visible;
+        opacity: 1;
+        position: relative;
+        top: 0;
+        right: 45%;
+    }
+    .header .menu{
+        position: relative;
+    }
+    .header .menu ul{
+        position: absolute;
+        top: 115%;
+        right:31%;
+        width: 0;
+        height: 0;
+        visibility: hidden;
+        opacity: 0;
+        transform-origin: top;
+        z-index: -999;
+    }
+    .header .menu ul li{
+        display: block;
+        background: white;
+    }
+    .header .menu ul li:nth-child(2) ul, .header .menu ul li:nth-child(3) ul{
+        width: 100%;
+        z-index: 999;
+    }
+    .header .menu #mobile-menu:checked ~ ul{
+        visibility: visible;
+        opacity: 1;
+        height: 100%;
+        transition: 1s;
+        width: 80%;
+    }
+    .sidetext h1 {
+        font-size: 25px;
+    }
+    .sidetext p {
+        font-size: 16px;
+        padding-top: 16px;
+    }
+    .video {
+        height: 186px;
+    }
+    .card .text h1 {
+        font-size: 25px;
+    }
+    .card .text p {
+        font-size: 18px;
+    }
+    .card .card-section .card-1 {
+        width: 100%;
+        margin-left: 0;
+        padding: 30px 0 50px 0;
+    }
+    .card .card-section .card-1:nth-child(4){
+        margin-left: 0;
+    }
+    .card .card-section .card-1 .card-text {
+        text-align: center;
+    }
+    .card .card-section .card-1 .card-text p {
+        margin-top: 20px;
+    }
+    .service .service-text h1 {
+        font-size: 22px;
+    }
+    .service .service-text p {
+        font-size: 14px;
+    }
+    .member .member-top h1 {
+        font-size: 22px;
+    }
+    .member .member-bottom .member-details {
+        width: 100%;
+    }.search-box h1 {
+        font-size: 30px;
+    }
+    .bottom .bottom-top .div-left h1 {
+        font-size: 30px;
+    }
+    .bottom .bottom-top .div-right p {
+        font-size: 15px;
+    }
+    .bottom {
+        padding: 30px 0 100px 0;
+    }
+    .bottom-text {
+        font-size: 18px;
+    }
+}
+@media (max-width:450px) {
+    .banner {
+        padding: 65px 0px;
+    }
+    .button{
+        position: absolute;
+        top: 36%;
+    }
+    .logo img {
+        height: 35px;
+    }
+    .logo span {
+        font-size: 19px;
+        line-height: 35px;
+    }
+    .button span {
+        font-size: 12px;
+    }
+    .card .text h1 {
+        font-size: 20px;
+    }
+    .card .text p {
+        font-size: 16px;
+    }
+    .card {
+        padding: 38px 0 50px 0;
+    }
+    .service .service-box .service-box-1 .service-box-top h1 {
+        font-size: 23px;
+        padding-bottom: 8px;
+    }
+    .service .service-box .service-box-1 .service-box-top h2 {
+        font-size: 34px;
+    }
+    .service .service-box .service-box-1 .service-box-top h3 {
+        margin-top: 25px;
+        font-size: 18px;
+    }
+    .service .service-box .service-box-1 .service-box-top p {
+        font-size: 18px;
+    }
+    .service .service-box .service-box-1 .service-box-top {
+        padding: 40px;
+    }
+    .service .service-box .service-box-1 .service-box-bottom ul li span {
+        font-size: 14px;
+    }
+    .service .service-box .service-box-1 .service-box-bottom ul li i {
+        font-size: 20px;
+    }
+    .service .service-box .service-box-1 .service-box-bottom .service-button span {
+        padding: 10px 0;
+        font-size: 18px;
+    }
+    .service .service-box .service-box-1 .service-box-bottom ul li {
+        line-height: 40px;
+    }
+    .member .member-top h1 {
+        font-size: 19px;
+    }
+    .search-box h1 {
+        font-size: 24px;
+    }
+    .search-box h3 {
+        font-size: 15px;
+    }
+    .search-box button {
+        padding: 15px 50px;
+    }
+    .search-box button {
+        font-size: 20px;
+    }
+    .bottom .bottom-bottom .div-bottom .div-text h3 {
+        font-size: 18px;
+    }
+    .bottom .bottom-bottom .div-bottom .div-text p {
+        font-size: 16px;
+    }
+    .review .review-top h1 {
+        font-size: 22px;
+        margin-top: 14px;
+    }
+    .review .review-top p {
+        font-size: 18px;
+    }
+    .search-box .email {
+        padding: 6px 27px 6px 25px;
+    }
+    .search-box button {
+        font-size: 16px;
+    }
+    .form .form-left {
+        width: 96%;
+    }
+    .form .form-left {
+        width: 89%;
+    }
+    iframe.map {
+        height: 300px;
+    }
+    .form .form-right form .number {
+        width: 96%;
+    }
+    .form .form-right form .name {
+        width: 96%;
+    }
+    .form .form-right form .email {
+        width: 90%;
+    }
+    .form .form-right form .msg {
+        width: 91%;
+    }
+    .form .form-right form .submit {
+        width: 96%;
+    }
+}
+@media (max-width:353px) {
+    .banner span {
+        font-size: 14px;
+        padding: 12px 9px;
+    }
+    .banner span {
+        margin-right: 6px;
+    }
+    .banner {
+        padding: 45px 0px;
+    }
+    .header .menu #mobile-menu:checked ~ ul {
+        width: 95%;
+    }
+    .header .menu ul {
+        position: absolute;
+        right: 12%;
+    }
+    .card .text h1 {
+        font-size: 15px;
+    }
+    .card .text p {
+        font-size: 14px;
+    }
+    .card {
+        padding: 28px 0 50px 0;
+    }
+    .card .card-section .card-1 .card-text h2 {
+        font-size: 20px;
+    }
+    .card .card-section .card-1 .card-text p {
+        font-size: 18px;
+    }
+    .member .member-top h1 {
+        font-size: 15px;
+    }
+    .search-box h1 {
+        font-size: 20px;
+    }
+    .search-box h3 {
+        font-size: 12px;
+    }
+    .search-box button {
+        font-size: 16px;
+    }
+    .search-box button {
+        padding: 10px 25px;
+    }
+    .search-box .email {
+        padding: 0;
+    }
+    .form .form-right form .email {
+        width: 86%;
+    }
+    .form .form-right form .name {
+        width: 93%;
+    }
+    .form .form-right form .number {
+        width: 93%;
+    }
+    .form .form-right form .msg {
+        width: 86%;
+    }
+    .form .form-right form .submit {
+        width: 93%;
+    }
+}
+@media (max-width:326px) {
+    .button span {
+        font-size: 9px;
+    }
+    .service .service-box .service-box-1 .service-box-bottom ul li span {
+        font-size: 12px;
+    }
+    .service .service-box .service-box-1 .service-box-bottom ul li i {
+        font-size: 14px;
+    }
+    .service .service-box .service-box-1 .service-box-top {
+        padding: 40px 40px 80px 40px;
+    }
+    .service .service-box .service-box-1 .service-box-bottom .service-button span {
+        font-size: 12px;
+    }
+}
+@media (max-width:297px) {
+    .logo span {
+        font-size: 16px;
+    }
+    .header .menu #mobile-menu:checked ~ ul {
+        width: 100%;
+    }
+    .header .menu ul {
+        position: absolute;
+        top: 115%;
+        right: 9%;
+    }
+    .service-box-1 .service-box-bottom ul li span {
+        font-size: 10px;
+    }
+    .member .member-top h1 {
+        font-size: 12px;
+    }
+}
